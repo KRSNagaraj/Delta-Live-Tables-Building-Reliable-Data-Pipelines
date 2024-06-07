@@ -53,7 +53,7 @@ Delta Live Tables from Azure Databricks simplifies the process of creating robus
 ## Screenshots
 
 ### DLT Pipeline Results
-![DLT Pipeline Results](images/results.png)
+![DLT Pipeline Results](images/result.png)
 
 ### DLT Settings Page
 ![DLT Settings Page](images/settings.png)
